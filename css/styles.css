@@ -1,0 +1,38 @@
+/* General App  */
+.app {
+  background-image: linear-gradient(to right bottom, #3498db, #00a4d8, #00afcb, #00b6b6, #1abc9c);
+  width: 500px;
+  height: 800px;
+  border-radius: 25px 25px 25px 25px;
+-moz-border-radius: 25px 25px 25px 25px;
+-webkit-border-radius: 25px 25px 25px 25px;
+border: 0px solid #000000;
+margin: 0 auto;
+text-align: center;
+}
+
+
+/* Title  */
+h1 {
+  padding-top:20px;
+  font-family: 'Pacifico', cursive;
+  color: #FFFFFF;
+}
+
+/* Image  */
+#cat {
+  width:400px;
+  margin-top:50px;
+  border-radius: 25px 25px 25px 25px;
+-moz-border-radius: 25px 25px 25px 25px;
+-webkit-border-radius: 25px 25px 25px 25px;
+border: 0px solid #000000;
+}
+
+/* Number of clicks  */
+.clicks {
+  font-family: 'Pacifico', cursive;
+  color: #FFFFFF;
+  padding-top:50px;
+  font-size:24px;
+}
